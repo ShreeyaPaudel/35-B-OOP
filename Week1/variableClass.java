@@ -14,7 +14,7 @@ public class variableClass{
         /* Multiple initialization */
         intValue1 = -99; intValue2= 99;
         /* Multiple deckaration and initialization */
-        long longValue1 = -99; longValue2 = 999;
+        long longValue1 = -99; longValue1= 999;
         float floatValue = 1.90f; // the letter 'f' is required 
         double doubleValue = 28.88d; // the letter 'd' is optional
         char charValue = 'c'; // single letter in single quote 

@@ -50,6 +50,7 @@ public class ifelseclass {
     
     
     }
+}
  
 
 /* Task
@@ -62,7 +63,4 @@ if avg is less than 80, print first div
 if avg is equal or greater than 80, print distinction 
 if avg is less than 0 or more than 100, print invalid 
 */
-int science = 35, english= 55, math = 89;
-int total = science+english+math;
-int avg= (science+english+math)/3;
-if (science<35) && (english<35) && ()
+

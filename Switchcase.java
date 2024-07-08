@@ -37,7 +37,7 @@ public class Switchcase {
          * rest- Invalid
          */
         int day = 4;
-        switch (charValue){
+        switch (day){
             case 0:
                 System.out.println("sunday");
                 break;
@@ -59,9 +59,10 @@ public class Switchcase {
             case 6:
                 System.out.println("saturday");
                 break;
-            case :
-                System.out.println("invalid");
+            default:
+                System.out.println("invalid day");
                 break;
+
 
             
 
